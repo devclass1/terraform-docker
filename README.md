@@ -8,3 +8,6 @@ yum install git<br>
 service docker start<br>
     
    
+# Clone Repository into aws ec2 instance and change into terraform-docker directory check main.tf and docker.tf file there
+
+terraform init
